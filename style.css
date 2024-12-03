@@ -10,3 +10,9 @@ div{
     display: flex;
     justify-content: center;
 }
+section{
+    color:blueviolet;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
